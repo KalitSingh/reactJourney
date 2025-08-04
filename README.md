@@ -58,13 +58,13 @@ TotalReact/
 ```bash
 git commit -m "⚛️ day1: Setup Vite + JSX practice"
 ```
-###📌 Goal
+### 📌 Goal
 To become job-ready in React.js by mastering core concepts, building projects, and applying best practices.
 This repo is part of my MERN Stack learning journey. 🌟
 
 ---
 
-###🌐 Connect with Me
+### 🌐 Connect with Me
 Want to learn React together or give feedback?
 Let’s connect: www.linkedin.com/in/kalit-singh
 
