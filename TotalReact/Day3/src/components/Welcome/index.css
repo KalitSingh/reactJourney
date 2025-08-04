@@ -1,0 +1,9 @@
+.welcome-container{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.subscribe-btnCss{
+    background-color: rgb(142, 238, 238);
+    color: black;
+} 
