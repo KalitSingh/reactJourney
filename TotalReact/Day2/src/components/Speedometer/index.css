@@ -1,0 +1,23 @@
+.speedoContainer{
+    display: grid;
+    place-items: center;
+}
+.speedoImg{
+    width: 80%;
+    margin-top: 60px;
+    border-radius: 16px;
+}
+@media screen and (min-width: 768px){
+    .speedoImag{
+        max-width: 40%;
+    }
+}
+.initialSpeeds{
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+}
+.speedoBtnContainer{
+    display: flex; 
+    gap: 10px;
+
+}
