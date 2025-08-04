@@ -10,16 +10,13 @@ Welcome to my **React.js** learning repository!
 This repo tracks my daily progress as I build up skills in **React** — from scratch to advanced concepts — one day at a time. 🧠💻
 
 ## 📁 Folder Structure
-
 Each day has its own folder for clean organization and easy navigation:
 
-TotalReact/
-├── README.md
+TotalReact
 ├── day1/ # 🚀 React setup, JSX basics
 ├── day2/ # 🔁 Components, Props, State, Events
 ├── day3/ # ♻️  Conditional Rendering
 ├── ...
-
 
 ---
 
