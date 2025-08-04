@@ -1,14 +1,5 @@
 # ⚛️ React.js Learning Journey — From Start to End 🚀 (Start Date: 01-Aug-2025)
 
-<p align="center">
-  ![Repo size](https://img.shields.io/github/repo-size/KalitSingh/reactJourney)
-  ![Last commit](https://img.shields.io/github/last-commit/KalitSingh/reactJourney)
-  ![Issues](https://img.shields.io/github/issues/KalitSingh/reactJourney)
-  ![Stars](https://img.shields.io/github/stars/KalitSingh/reactJourney?style=social)
-</p>
-
-
-
 Welcome to my **React.js** learning repository!  
 This repo tracks my daily progress as I build up skills in **React** — from scratch to advanced concepts — one day at a time. 🧠💻
 
