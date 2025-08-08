@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.darkMode-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.mode-container {
+  display: grid;
+  place-items: center;
+  width: 400px;
+  max-width: 600px;
+  max-height: 500px;
+  height: 200px;
+  padding: 12px;
+  font-family: 'Roboto';
+  text-align: center;
+  background-color: black;
+  border-radius: 16px;
+  color: white;
+}
+.lightMode {
+  background-color: #ffffff;
+  border: 2px solid black;
+  color: black;
+}
+light-mode-title {
+  font-weight: bold;
+}
+
+.mode-btn {
+  width: 140px;
+  height: 48px;
+  border: 0px solid;
+  border-radius: 4px;
+  font-family: 'Roboto';
+  font-size: 22px;
+  padding: 4px;
+}
