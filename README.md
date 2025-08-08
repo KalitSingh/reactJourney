@@ -1,25 +1,16 @@
 # ⚛️ React.js Learning Journey — From Start to End 🚀 (Start Date: 01-Aug-2025)
 
-![Repo size](https://img.shields.io/github/repo-size/KalitSingh/reactJourney)
-![Last commit](https://img.shields.io/github/last-commit/KalitSingh/reactJourney)
-![Issues](https://img.shields.io/github/issues/KalitSingh/reactJourney)
-![Stars](https://img.shields.io/github/stars/KalitSingh/reactJourney?style=social)
-
-
 Welcome to my **React.js** learning repository!  
 This repo tracks my daily progress as I build up skills in **React** — from scratch to advanced concepts — one day at a time. 🧠💻
 
 ## 📁 Folder Structure
-
 Each day has its own folder for clean organization and easy navigation:
 
-TotalReact/
-├── README.md
+TotalReact
 ├── day1/ # 🚀 React setup, JSX basics
 ├── day2/ # 🔁 Components, Props, State, Events
 ├── day3/ # ♻️  Conditional Rendering
 ├── ...
-
 
 ---
 
