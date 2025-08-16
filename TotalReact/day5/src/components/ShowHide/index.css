@@ -1,0 +1,53 @@
+.showhide-container{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+} 
+.showHide-cards-container{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center;
+    gap: 2rem;
+}
+.showhide-card{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    font-family: "Roboto";
+    width: 340px;
+    height: 200px;
+    background-color: blue;
+    padding: 12px;
+    border-radius: 8px;
+} 
+.showHide-btn{
+    width: 146px; 
+    height: 46px; 
+    border-radius: 24px; 
+    font-weight: 600; 
+    font-size: 1rem;
+    background-color: white; 
+    color: black; 
+    outline: none; 
+    cursor: pointer; 
+    padding: 8px;
+    margin-bottom: 20px;
+} 
+.showHide-content-container{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    border: 0 solid;
+    border-radius: 16px;
+    width: 200px; 
+    height: 60px;
+}
+.showHide-content-title{
+    color: black;
+    font-weight: bold; 
+    text-align: center;
+}
