@@ -1,0 +1,12 @@
+.message {
+  font-family: 'Roboto';
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: 900;
+  color: white;
+}
+@media screen and (min-width: 570px) {
+  .message {
+    font-size: 2.8rem;
+  }
+}
